@@ -1,6 +1,6 @@
 # Working of Model
 
-![functionality]([path-to-your-gif.gif](https://github.com/Manvn48/Imdb-reviews-Sentiment-Analysis/blob/main/movie-sentiment-functionality.gif))
+![functionality](https://github.com/Manvn48/Imdb-reviews-Sentiment-Analysis/blob/main/movie-sentiment-functionality.gif)
 
 
 ## Steps to run on Windows
